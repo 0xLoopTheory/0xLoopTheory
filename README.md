@@ -10,7 +10,7 @@ Cryptologist and cybersecurity researcher focused on post-quantum cryptography, 
 
 ## Current work
 
-Building [Encryptorium](https://encryptorium.com) — an independent applied cryptography research platform covering the post-quantum transition with original research, technical analysis, and open resources.
+Building [Encryptorium](https://encryptorium.com), an independent applied cryptography research platform covering the post-quantum transition with original research, technical analysis, and open resources.
 
 ### Recent writing
 
@@ -20,6 +20,6 @@ Building [Encryptorium](https://encryptorium.com) — an independent applied cry
 
 ## Links
 
-[![X](https://img.shields.io/badge/X-@0xLoopTheory-000000?style=flat&logo=x)](https://x.com/0xLoopTheory)
-[![Medium](https://img.shields.io/badge/Medium-Encryptorium-12100E?style=flat&logo=medium)](https://encryptorium.medium.com)
-[![Web](https://img.shields.io/badge/Web-encryptorium.com-d4940a?style=flat)](https://encryptorium.com)
+[![X](https://img.shields.io/badge/-000000?style=flat&logo=x)](https://x.com/0xLoopTheory)
+[![Medium](https://img.shields.io/badge/-12100E?style=flat&logo=medium)](https://encryptorium.medium.com)
+[![Web](https://img.shields.io/badge/encryptorium.com-d4940a?style=flat)](https://encryptorium.com)
