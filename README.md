@@ -14,9 +14,9 @@ Building [Encryptorium](https://encryptorium.com), an independent applied crypto
 
 ### Recent writing
 
-- [Google's quantum threat to Bitcoin: what the paper actually says](https://encryptorium.medium.com/googles-quantum-threat-to-bitcoin-what-the-paper-actually-says-f54f1f82cdeb)
-- [Post-Quantum ZK is an Architecture Problem](https://encryptorium.medium.com/post-quantum-zk-is-an-architecture-problem-f3024db718b8)
-- [Crypto Agility: Designing Systems That Survive Broken Cryptography](https://encryptorium.medium.com/crypto-agility-designing-systems-that-survive-broken-cryptography-3dc3e23931c0)
+- [Google's quantum threat to Bitcoin: what the paper actually says](https://encryptorium.com/blog/google-quantum-threat-bitcoin/)
+- [Post-Quantum ZK is an Architecture Problem](https://encryptorium.com/blog/pq-zk-architecture-problem/)
+- [Crypto Agility: Designing Systems That Survive Broken Cryptography](https://encryptorium.com/blog/crypto-agility/)
 
 ## Links
 
