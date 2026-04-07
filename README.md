@@ -20,7 +20,7 @@ Building [Encryptorium](https://encryptorium.com), an independent applied crypto
 
 ## Links
 
-[![X](https://img.shields.io/badge/-000000?style=flat&logo=x)](https://x.com/0xLoopTheory)
-[![Medium](https://img.shields.io/badge/-12100E?style=flat&logo=medium)](https://encryptorium.medium.com)
-[![HackerNoon](https://img.shields.io/badge/-00FF00?style=flat&logo=hackernoon&logoColor=black)](https://hackernoon.com/u/0xlooptheory)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/0xLoopTheory)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://encryptorium.medium.com)
+[![HackerNoon](https://img.shields.io/badge/HackerNoon-00FF00?style=flat&logo=hackernoon&logoColor=black)](https://hackernoon.com/u/0xlooptheory)
 [![Web](https://img.shields.io/badge/encryptorium.com-d4940a?style=flat)](https://encryptorium.com)
