@@ -18,9 +18,16 @@ Building [Encryptorium](https://encryptorium.com), an independent applied crypto
 - [Post-Quantum ZK is an Architecture Problem](https://encryptorium.com/blog/pq-zk-architecture-problem/)
 - [Crypto Agility: Designing Systems That Survive Broken Cryptography](https://encryptorium.com/blog/crypto-agility/)
 
+### Videos
+
+Encryptorium on YouTube: [@encryptorium](https://www.youtube.com/@encryptorium)
+
+- [Google's quantum threat to Bitcoin: what the paper actually says](https://youtu.be/wj3Y0V_hN34) — 2026-04-20
+
 ## Links
 
 [![X](https://img.shields.io/badge/%20-000000?style=flat&logo=x&logoColor=white)](https://x.com/0xLoopTheory)
+[![YouTube](https://img.shields.io/badge/%20-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@encryptorium)
 [![Medium](https://img.shields.io/badge/%20-12100E?style=flat&logo=medium&logoColor=white)](https://encryptorium.medium.com)
 [![HackerNoon](https://img.shields.io/badge/%20-00FF00?style=flat&logo=hackernoon&logoColor=black)](https://hackernoon.com/u/0xlooptheory)
 [![Web](https://img.shields.io/badge/encryptorium.com-d4940a?style=flat)](https://encryptorium.com)
