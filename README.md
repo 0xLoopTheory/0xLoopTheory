@@ -14,15 +14,19 @@ Building [Encryptorium](https://encryptorium.com), an independent applied crypto
 
 ### Recent writing
 
-- [Google's quantum threat to Bitcoin: what the paper actually says](https://encryptorium.com/blog/google-quantum-threat-bitcoin/)
-- [Post-Quantum ZK is an Architecture Problem](https://encryptorium.com/blog/pq-zk-architecture-problem/)
-- [Crypto Agility: Designing Systems That Survive Broken Cryptography](https://encryptorium.com/blog/crypto-agility/)
+- [Solana's quantum-readiness post: what the engineering shows, what the framing softens](https://encryptorium.com/blog/solana-quantum-readiness/)
+- [Too much of the PQC market sells fear. Here is what practitioners should do first.](https://encryptorium.com/blog/pqc-industry-selling-fear/)
+- [Quantum-safe Bitcoin transactions without a soft fork: what the QSB paper actually says](https://encryptorium.com/blog/quantum-safe-bitcoin-qsb/)
 
 ### Videos
 
 Encryptorium on YouTube: [@encryptorium](https://www.youtube.com/@encryptorium)
 
 - [Google's quantum threat to Bitcoin: what the paper actually says](https://youtu.be/wj3Y0V_hN34) — 2026-04-20
+
+## Fiction
+
+[Cleartext](https://cleartextnovel.com), a near-future techno-thriller about what happens when the math beneath the internet stops holding.
 
 ## Links
 
