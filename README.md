@@ -2,6 +2,8 @@
 
 Cryptologist and cybersecurity researcher based in Switzerland, focused on post-quantum cryptography, zero-knowledge proof systems, and secure systems engineering. CISSP. MSc in Business IT, ZHAW.
 
+[arenz.ch](https://arenz.ch/) — publications, writing, and books.
+
 ## Publications
 
 Peer-reviewed, both first author, from my ZHAW master thesis on user authentication for voice-based services:
@@ -43,6 +45,7 @@ Encryptorium on YouTube: [@encryptorium](https://www.youtube.com/@encryptorium)
 
 ## Links
 
+[![arenz.ch](https://img.shields.io/badge/arenz.ch-14130F?style=flat)](https://arenz.ch/)
 [![X](https://img.shields.io/badge/%20-000000?style=flat&logo=x&logoColor=white)](https://x.com/0xLoopTheory)
 [![YouTube](https://img.shields.io/badge/%20-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@encryptorium)
 [![Medium](https://img.shields.io/badge/%20-12100E?style=flat&logo=medium&logoColor=white)](https://encryptorium.medium.com)
